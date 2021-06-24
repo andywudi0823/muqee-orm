@@ -1,11 +1,11 @@
 <?php
 /**
- * @copyright   Copyright (c) http://careyshop.cn All rights reserved.
+ * @copyright   Copyright (c) http://muqee.com All rights reserved.
  *
  * CareyShop    公共模型基类
  *
- * @author      zxm <252404501@qq.com>
- * @date        2020/7/21
+ * @author      andywu <andywu0823@qq.com>
+ * @date        2021/4/21
  */
 
 namespace muqee\orm;
