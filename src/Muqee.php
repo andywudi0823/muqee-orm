@@ -8,7 +8,7 @@
  * @date        2020/7/21
  */
 
-namespace muqee;
+namespace muqee\orm;
 
 use think\exception\ValidateException;
 use think\facade\Config;
